@@ -29,9 +29,7 @@
   
   
 ## 실행
-![](https://imgur.com/salLVgl.png)
   * 환경변수 설정
-  ![](https://imgur.com/eAOW6cx.png)
       * AWS_ACCESS_KEY_ID = #값넣기
       * AWS_SECRET_ACCESS_KEY = #값넣기
       * PYTHONUNBUFFERED=1
@@ -45,8 +43,6 @@
           * 별도로 다시 생성해서 설정하고 싶은 경우 아래와 같은 방법 참고
             * 방법1: https://djecrety.ir/ -> 시크릿 키 생성기로 키를 생성해 사용
             * 방법2: 터미널에 `python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'`를 입력해 생성하거나, 코드 내에 삽입해서 생성할 수 있다.
-![](https://imgur.com/wg9jXcv.png)
-
 
 ## 배포
 > aws 파이프라인이용한 elasticbeanstalk 자동 배포 <br>
