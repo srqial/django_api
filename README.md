@@ -29,10 +29,6 @@
   
   
 ## 실행
-![](https://imgur.com/KtFtK5n.png)
-
-* 우측상단 Add Configuration -> + 버튼 -> Django Server
-
 ![](https://imgur.com/salLVgl.png)
   * 환경변수 설정
   ![](https://imgur.com/eAOW6cx.png)
