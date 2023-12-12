@@ -1,0 +1,5 @@
+bucket={
+    "product": "",
+    "develop": "",
+    "test": ""
+}
