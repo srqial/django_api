@@ -6,15 +6,6 @@
 - djangorestframework==3.14.0
 - mysqlclient==2.2.0
 
-
-## 설치
-- PyCharm (Professional 구매필요)
-- Python 3.9.0
-
-
-## 가상환경 설정
-![](https://imgur.com/6QsIAuG.png)
-
 ## 모드
 > `config` > `settings`폴더 하위에 프로젝트 실행 설정&프로필을 구성한다.
 * `base.py` : 공통 설정을 정의한다.
